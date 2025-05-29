@@ -6,7 +6,21 @@ A collection of software projects I am actively developing and improving. These 
 
 ## 📂 Project Directory
 
-### 1. Project Name: [CaptureWindow(WIP)](https://github.com/emman-j/CaptureWindow)  
+### 1. Project Name: MMS (Meter Management System) (Private)  
+**Description:**  
+A Windows desktop application built with WinForms, designed for configuring and interacting with DLMS/COSEM-compliant smart meters via serial communication. 
+Tailored for engineers and utility professionals in the energy metering sector.
+
+**Highlights:**  
+- DLMS/COSEM protocol support over raw serial communication  
+- Dynamic UI leveraging inheritance and abstractions for flexible object handling, with UserControls enabling dynamic interface generation  
+- SQLite integration for local user management and data logging  
+- Flexible data export: Excel (via NPOI), CSV, and TXT  
+- JSON/XML-based configuration with plugin-ready architecture for extensibility  
+
+
+
+### 2. Project Name: [CaptureWindow(WIP)](https://github.com/emman-j/CaptureWindow)  
 **Description:** A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
 
 **Highlights:**  
