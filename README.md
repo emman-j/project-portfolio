@@ -7,7 +7,8 @@ A collection of software projects I am actively developing and improving. These 
 ## 📂 Project Directory
 
 ### 1. Project Name: [CaptureWindow(WIP)](https://github.com/emman-j/CaptureWindow)  
-**Description:** A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. 
+**Description:** A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
+
 **Highlights:**  
 - Dual implementation: WinForms(WIP) and WPF(WIP)  
 - Simple and intuitive UI for capturing specific windows  
