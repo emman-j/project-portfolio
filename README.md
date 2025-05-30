@@ -4,9 +4,9 @@ A collection of software projects I am actively developing and improving. These 
 ---
 
 
-## 📂 Project Directory
+# 📂 Project Directory
 
-### 1. Project Name: MMS (Meter Management System) (Private)  
+## 1. Project Name: MMS (Meter Management System) (Private)  
 **Description:**  
 A Windows desktop application built with WinForms, designed for configuring and interacting with DLMS/COSEM-compliant smart meters via serial communication. 
 Tailored for engineers and utility professionals in the energy metering sector.
@@ -20,7 +20,7 @@ Tailored for engineers and utility professionals in the energy metering sector.
 
 
 
-### 2. Project Name: [Assembly Merger](https://github.com/emman-j/assembly-merger)  
+## 2. Project Name: [Assembly Merger](https://github.com/emman-j/assembly-merger)  
 
 ![AssemblyMerger](https://raw.githubusercontent.com/emman-j/assembly-merger/refs/heads/main/Images/MainUI.png)
 
@@ -37,7 +37,9 @@ Simplifies deployment by consolidating dependencies and resources.
 - **Error Handling**: Provides feedback on merge success or failure.  
 
 
-### 3. Project Name: [window-capture(WIP)](https://github.com/emman-j/CaptureWindow) 
+
+
+## 3. Project Name: [window-capture (WIP)](https://github.com/emman-j/CaptureWindow) 
 **Description:**
 A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
 
