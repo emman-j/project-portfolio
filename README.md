@@ -39,7 +39,7 @@ Simplifies deployment by consolidating dependencies and resources.
 
 
 
-## 3. Project Name: [window-capture (WIP)](https://github.com/emman-j/CaptureWindow) 
+## 3. Project Name: [Window Capture (Workspace Management)](https://github.com/emman-j/window-capture) [WIP]
 **Description:**
 A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
 
