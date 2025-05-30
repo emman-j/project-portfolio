@@ -12,16 +12,34 @@ A Windows desktop application built with WinForms, designed for configuring and 
 Tailored for engineers and utility professionals in the energy metering sector.
 
 **Highlights:**  
-- DLMS/COSEM protocol support over raw serial communication  
-- Dynamic UI leveraging inheritance and abstractions for flexible object handling, with UserControls enabling dynamic interface generation  
-- SQLite integration for local user management and data logging  
-- Flexible data export: Excel (via NPOI), CSV, and TXT  
-- JSON/XML-based configuration with plugin-ready architecture for extensibility  
+- **DLMS/COSEM protocol support** over raw serial communication  
+- **Dynamic UI** leveraging inheritance and abstractions for flexible object handling, with UserControls enabling dynamic interface generation  
+- **SQLite integration** for local user management and data logging  
+- **Flexible data export**: Excel (via NPOI), CSV, and TXT  
+- **JSON/XML-based configuration** with plugin-ready architecture for extensibility  
 
 
 
-### 2. Project Name: [CaptureWindow(WIP)](https://github.com/emman-j/CaptureWindow)  
-**Description:** A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
+### 2. Project Name: [Assembly Merger](https://github.com/emman-j/assembly-merger)  
+
+![AssemblyMerger](https://raw.githubusercontent.com/emman-j/assembly-merger/refs/heads/main/Images/MainUI.png)
+
+**Description:**
+A Windows desktop application built with WinForms in C#, designed to merge multiple .NET assemblies into a single executable.
+Simplifies deployment by consolidating dependencies and resources. 
+
+**Highlights:**  
+- **Graphical User Interface**: Intuitive design for easy navigation and operation.
+- **Customizable Output**: Specify output paths and filenames effortlessly.
+- **Auto-Detection of ILMerge Executable**: Automatically resolves and uses ILMerge.exe from the local application directory.
+- **Default Output Directory**: Automatically sets to `ExecutableBaseDirectory\output` for organized storage.
+- **Real-time Logging**: Monitor merge operations through an integrated console.
+- **Error Handling**: Provides feedback on merge success or failure.  
+
+
+### 3. Project Name: [window-capture(WIP)](https://github.com/emman-j/CaptureWindow) 
+**Description:**
+A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
 
 **Highlights:**  
 - Dual implementation: WinForms(WIP) and WPF(WIP)  
