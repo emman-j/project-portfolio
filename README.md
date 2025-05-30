@@ -6,7 +6,7 @@ A collection of software projects I am actively developing and improving. These 
 
 # 📂 Project Directory
 
-## 1. Project Name: MMS (Meter Management System) (Private)  
+## 1. MMS (Meter Management System) (Private)  
 **Description:**  
 A Windows desktop application built with WinForms, designed for configuring and interacting with DLMS/COSEM-compliant smart meters via serial communication. 
 Tailored for engineers and utility professionals in the energy metering sector.
@@ -16,11 +16,21 @@ Tailored for engineers and utility professionals in the energy metering sector.
 - **Dynamic UI** leveraging inheritance and abstractions for flexible object handling, with UserControls enabling dynamic interface generation  
 - **SQLite integration** for local user management and data logging  
 - **Flexible data export**: Excel (via NPOI), CSV, and TXT  
-- **JSON/XML-based configuration** with plugin-ready architecture for extensibility  
+- **JSON/XML-based configuration** with plugin-ready architecture for extensibility
+
+**Features**
+- **Device Management:** Discover, add, and configure DLMS/COSEM devices.
+- **Object Browsing:** Visualize and edit DLMS objects such as Data, Register, Clock, Profile Generic, Security Setup, and more.
+- **Data Reading/Writing:** Read and write values to device attributes with access control.
+- **Action Scheduling:** Manage and execute scheduled actions on devices.
+- **Security Management:** Configure security settings and certificates.
+- **User Management:** Role-based access and account management.
+- **Export/Import:** Export data and configurations for reporting or backup.
+- **Extensible UI:** Modular user controls for each object type, supporting easy extension.
 
 
 
-## 2. Project Name: [Assembly Merger](https://github.com/emman-j/assembly-merger)  
+## 2. [Assembly Merger](https://github.com/emman-j/assembly-merger)  
 
 ![AssemblyMerger](https://raw.githubusercontent.com/emman-j/assembly-merger/refs/heads/main/Images/MainUI.png)
 
@@ -37,7 +47,7 @@ Simplifies deployment by consolidating dependencies and resources.
 - **Error Handling**: Provides feedback on merge success or failure.  
 
 
-## 3. Project Name: [SQLServer-Exporter](https://github.com/emman-j/SQLServer-Exporter)  
+## 3. [SQLServer-Exporter](https://github.com/emman-j/SQLServer-Exporter)  
 **Description:**  
 A Windows desktop application developed in C# using WinForms, designed to facilitate the extraction and export of data from Microsoft SQL Server databases. This tool aims to streamline the process of exporting SQL Server data into various formats for reporting, analysis, or backup purposes.
 
@@ -48,7 +58,7 @@ A Windows desktop application developed in C# using WinForms, designed to facili
 - Built with C# and WinForms for a native Windows experience  
 
 
-## 4. Project Name: [Window Capture (Workspace Management)](https://github.com/emman-j/window-capture) [WIP]
+## 4. [Window Capture (Workspace Management)](https://github.com/emman-j/window-capture) [WIP]
 **Description:**
 A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
 
