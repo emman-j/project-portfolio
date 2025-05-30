@@ -37,9 +37,18 @@ Simplifies deployment by consolidating dependencies and resources.
 - **Error Handling**: Provides feedback on merge success or failure.  
 
 
+## 3. Project Name: [SQLServer-Exporter](https://github.com/emman-j/SQLServer-Exporter)  
+**Description:**  
+A Windows desktop application developed in C# using WinForms, designed to facilitate the extraction and export of data from Microsoft SQL Server databases. This tool aims to streamline the process of exporting SQL Server data into various formats for reporting, analysis, or backup purposes.
+
+**Highlights:**  
+- Connects to Microsoft SQL Server instances to retrieve data  
+- Exports data into multiple formats (e.g., CSV, Excel)  
+- User-friendly interface for selecting databases and tables  
+- Built with C# and WinForms for a native Windows experience  
 
 
-## 3. Project Name: [Window Capture (Workspace Management)](https://github.com/emman-j/window-capture) [WIP]
+## 4. Project Name: [Window Capture (Workspace Management)](https://github.com/emman-j/window-capture) [WIP]
 **Description:**
 A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
 
