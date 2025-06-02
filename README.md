@@ -34,7 +34,7 @@ Tailored for engineers and utility professionals in the energy metering sector.
 
 ![AssemblyMerger](https://raw.githubusercontent.com/emman-j/assembly-merger/refs/heads/main/Images/MainUI.png)
 
-**Description:**
+**Description:** 
 A Windows desktop application built with WinForms in C#, designed to merge multiple .NET assemblies into a single executable.
 Simplifies deployment by consolidating dependencies and resources. 
 
@@ -48,6 +48,9 @@ Simplifies deployment by consolidating dependencies and resources.
 
 
 ## 3. [SQLServer-Exporter](https://github.com/emman-j/SQLServer-Exporter)  
+
+![main](https://raw.githubusercontent.com/emman-j/SQLServer-Exporter/refs/heads/main/Images/main.png)
+
 **Description:**  
 A Windows desktop application developed in C# using WinForms, designed to facilitate the extraction and export of data from Microsoft SQL Server databases. This tool aims to streamline the process of exporting SQL Server data into various formats for reporting, analysis, or backup purposes.
 
@@ -59,6 +62,7 @@ A Windows desktop application developed in C# using WinForms, designed to facili
 
 
 ## 4. [Window Capture (Workspace Management)](https://github.com/emman-j/window-capture) [WIP]
+
 **Description:**
 A lightweight Windows application (WinForms & WPF) designed for capturing window screenshots and managing multiple workspace snapshots. Mainly made for testing win32 native interupt.
 
